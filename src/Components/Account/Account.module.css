@@ -1,0 +1,8 @@
+.Account {
+  width: 90%;
+  margin: 1rem auto 1rem;
+}
+.Utility {
+  display: flex;
+  justify-content: space-between;
+}

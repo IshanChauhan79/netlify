@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+.AppWindow {
+  width: 90%;
+  border-radius: 2rem;
+  background-color: #fbfcff;
+  overflow: hidden;
+}
+.Sidebar {
+  height: 100%;
+  width: 28rem;
+  background-color: white;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
